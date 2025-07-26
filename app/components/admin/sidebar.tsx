@@ -63,7 +63,7 @@ export function Sidebar() {
         <div className="flex items-center space-x-2">
           <Shield className="h-8 w-8 text-blue-600" />
           <div>
-            <h1 className="text-lg font-semibold">Form Analytics</h1>
+            <h1 className="text-lg font-semibold">ZCF</h1>
             <p className="text-xs text-gray-500">Admin Panel</p>
           </div>
         </div>
