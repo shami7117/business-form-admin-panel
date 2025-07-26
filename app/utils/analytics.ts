@@ -9,7 +9,7 @@ import {
   serverTimestamp,
   Timestamp 
 } from 'firebase/firestore';
-import { db } from '../lib/firebase'; // You'll need to create this
+import { db } from '../../lib/firebase'; // You'll need to create this
 
 class FormAnalytics {
   private sessionId: string;
