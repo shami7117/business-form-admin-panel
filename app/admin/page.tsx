@@ -192,7 +192,7 @@ export default function AdminDashboard() {
         <div>
           <h1 className="text-3xl font-bold">Dashboard</h1>
           <p className="text-muted-foreground">
-            Welcome back! Here's what's happening with your form analytics.
+            Welcome back! Here's what's happening with your ZCF
           </p>
         </div>
         <div className="flex space-x-2">

@@ -208,7 +208,7 @@ export default function AnalyticsAdminPanel() {
     <div className="container mx-auto p-6 space-y-6">
       <div className="flex justify-between items-center">
         <div>
-          <h1 className="text-3xl font-bold">Form Analytics Dashboard</h1>
+          <h1 className="text-3xl font-bold">ZCF Dashboard</h1>
           <p className="text-muted-foreground">Monitor user behavior and form performance</p>
         </div>
         <div className="flex space-x-2">

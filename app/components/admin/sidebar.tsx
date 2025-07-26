@@ -99,7 +99,7 @@ export function Sidebar() {
       {/* Footer */}
       <div className="border-t p-4">
         <div className="text-xs text-gray-500">
-          <p>Form Analytics v1.0</p>
+          <p>ZCF v1.0</p>
           <p>© 2025 Admin Panel</p>
         </div>
       </div>
